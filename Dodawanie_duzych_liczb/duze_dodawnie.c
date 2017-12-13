@@ -63,5 +63,7 @@ int main()
 		printf("%d",sum[i]);
 	}
 	
+    fclose(f1);
+    fclose(f2);
 	return 0;
 }
