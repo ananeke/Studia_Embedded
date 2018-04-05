@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522907062 source:/home/dorota/Dokumenty/Studia_Embedded/C++ exercises/Roz_ 6_STL/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
